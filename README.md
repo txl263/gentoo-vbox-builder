@@ -151,7 +151,7 @@ and livecd/compiled kernel support:
 2. 修改网卡为桥接
 3. 修改显卡为VMSVGA
 4. 修改 hostname
-5. 
+5. 修改内存大小 8G
 Contributions must be licensed under the MIT.
 
 ## Copyright
