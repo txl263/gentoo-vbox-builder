@@ -152,6 +152,8 @@ and livecd/compiled kernel support:
 3. 修改显卡为VMSVGA
 4. 修改 hostname
 5. 修改内存大小 8G
+6. 添加 swap 分区
+
 Contributions must be licensed under the MIT.
 
 ## Copyright
